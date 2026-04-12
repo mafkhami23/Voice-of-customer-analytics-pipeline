@@ -78,7 +78,7 @@ These patterns allow teams to:
 ---
 
 ## 🧱 Pipeline Overview
-!The diagram below illustrates the full pipeline—from data scraping and cleaning to NLP processing, clustering, sentiment analysis, and visualization.. <img width="2996" height="1002" alt="BCA Venue Study - Media Scraping_20260320" src="https://github.com/user-attachments/assets/d789bee3-0100-4e55-b5e2-0441f6f55481" />
+The diagram below illustrates the full pipeline—from data scraping and cleaning to NLP processing, clustering, sentiment analysis, and visualization.. <img width="2996" height="1002" alt="BCA Venue Study - Media Scraping_20260320" src="https://github.com/user-attachments/assets/d789bee3-0100-4e55-b5e2-0441f6f55481" />
 
 
 ---
